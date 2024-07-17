@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **KromaStone/KromaStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full stack developer from India.</h3>
 <!-- <iframe src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ">via GIPHY</a></p>
  -->
- <img src="[img_girl.jpg](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU2MWlpbTloZnppYmFidmloc2hneGU5eHFydXo4eTVyNWFxMXE0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.webp)" alt="Girl in a jacket" width="500" height="600">
+ <img src="https://images.pexels.com/photos/1933900/pexels-photo-1933900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Groot" width="500" height="600">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kromastone&label=Profile%20views&color=0e75b6&style=flat" alt="kromastone" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_g_root" target="blank"><img src="https://img.shields.io/twitter/follow/_g_root?logo=twitter&style=for-the-badge" alt="_g_root" /></a> </p>
