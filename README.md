@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full stack developer from India.</h3>
 <!-- <iframe src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ">via GIPHY</a></p>
  -->
- <img src="https://images.pexels.com/photos/1933900/pexels-photo-1933900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Groot" >
+ <img src="[https://images.pexels.com/photos/1933900/pexels-photo-1933900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://plus.unsplash.com/premium_photo-1678565999332-1cde462f7b24?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="Groot" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kromastone&label=Profile%20views&color=0e75b6&style=flat" alt="kromastone" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_g_root" target="blank"><img src="https://img.shields.io/twitter/follow/_g_root?logo=twitter&style=for-the-badge" alt="_g_root" /></a> </p>
