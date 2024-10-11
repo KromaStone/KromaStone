@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/_g_root" target="blank"><img src="https://img.shields.io/twitter/follow/_g_root?logo=twitter&style=for-the-badge" alt="_g_root" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, ASP.NET, SQL**
+- 🌱 I’m currently learning **React | NodeJS | MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-teal-theta-72.vercel.app](https://portfolio-teal-theta-72.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kartik-kumar.vercel.app/)
 
 - 📫 How to reach me **kartikkumar0325@gmail.com**
 
