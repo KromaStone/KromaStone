@@ -5,7 +5,12 @@
 <p align="center" style="font-style: italic; font-size: 18px;">🚀 A passionate Full Stack Developer from India building the web of tomorrow</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="300" alt="groot-animation">
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" 
+     width="300" 
+     alt="groot-animation"
+     style="border-radius: 20px; box-shadow: 0 4px 12px rgb(231, 233, 235, 0.1); transition: transform 0.3s ease-in-out;" 
+     onmouseover="this.style.transform='scale(1.05)'" 
+     onmouseout="this.style.transform='scale(1)'">
 </p>
 
 <p align="center">
